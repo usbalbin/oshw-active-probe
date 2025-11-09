@@ -6862,7 +6862,7 @@
 			(mid 0 -1.7653)
 			(end -0.3048 -2.0701)
 			(stroke
-				(width 0)
+				(width 0.1)
 				(type solid)
 			)
 			(layer "B.Fab")
@@ -11786,7 +11786,7 @@
 			(uuid "53c0fd44-beaf-4873-a804-527d3bf02cdc")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -1.4 1.215575 360)
+			(at -1.4 1.215575 0)
 			(unlocked yes)
 			(layer "User.8")
 			(uuid "73fce1d6-0f48-4fb0-bd61-1cb44a9c79a9")
@@ -13798,8 +13798,8 @@
 		(uuid "9fa4b4cc-270f-4c9c-b76d-a4d658792ab6")
 	)
 	(gr_rect
-		(start 177.4011 99.26982)
-		(end 178.6011 98.5286)
+		(start 177.4011 98.5286)
+		(end 178.6011 99.26982)
 		(stroke
 			(width 0)
 			(type default)
@@ -13950,8 +13950,8 @@
 		(uuid "b0b9ca75-6c25-4224-8bc0-275a5e0462aa")
 	)
 	(gr_rect
-		(start 177.4011 100.879)
-		(end 178.6011 100.13778)
+		(start 177.4011 100.13778)
+		(end 178.6011 100.879)
 		(stroke
 			(width 0)
 			(type default)
@@ -14387,8 +14387,8 @@
 		(uuid "604a2c66-9ecf-4555-97f4-28eac4d8a221")
 	)
 	(gr_rect
-		(start 175.8011 100.879)
-		(end 177.6011 98.5286)
+		(start 175.8011 98.5286)
+		(end 177.6011 100.879)
 		(stroke
 			(width 0)
 			(type default)
@@ -14398,8 +14398,8 @@
 		(uuid "8e0d680a-ac07-443c-8c2b-a7c784f0d709")
 	)
 	(gr_rect
-		(start 181.59433 100.1286)
-		(end 182.0761 99.2786)
+		(start 181.59433 99.2786)
+		(end 182.0761 100.1286)
 		(stroke
 			(width 0)
 			(type default)
@@ -15916,7 +15916,8 @@
 		(mid 133.087493 101.021171)
 		(end 132.924311 101.0536)
 		(width 0.3429)
-		(layer "F.Cu")
+		(layers "F.Cu" "F.Mask")
+		(solder_mask_margin 0)
 		(net 24)
 		(uuid "36d48484-e343-47d9-9eb2-f0fdb2d657be")
 	)
