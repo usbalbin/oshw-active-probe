@@ -21,7 +21,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "2cb681b9-1e6f-4cce-b0fc-7f6e242a6424")
-		(property "Sheetname" ""
+		(property "Sheetname" "Power"
 			(at 25.4 24.6884 0)
 			(effects
 				(font
@@ -30,7 +30,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "/home/albin/my_projects/oshw-active-probe/board/Power.SchDoc"
+		(property "Sheetfile" "Power.kicad_sch"
 			(at 25.4 29.7946 0)
 			(effects
 				(font
@@ -63,7 +63,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "57150ba0-cdb5-4111-ad0a-a0447c4eb7da")
-		(property "Sheetname" ""
+		(property "Sheetname" "Probe"
 			(at 76.2 24.6884 0)
 			(effects
 				(font
@@ -72,7 +72,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "/home/albin/my_projects/oshw-active-probe/board/Probe.SchDoc"
+		(property "Sheetfile" "Probe_sub.kicad_sch"
 			(at 76.2 29.7946 0)
 			(effects
 				(font
